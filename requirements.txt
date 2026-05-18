@@ -8,3 +8,10 @@ chromadb
 sentence-transformers
 pypdf
 python-dotenv
+pymupdf
+unstructured
+python-docx
+docx2txt
+pandas
+openpyxl
+msoffcrypto-tool
