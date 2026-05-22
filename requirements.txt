@@ -15,3 +15,6 @@ docx2txt
 pandas
 openpyxl
 msoffcrypto-tool
+jq
+matplotlib
+langchain-huggingface
